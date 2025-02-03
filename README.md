@@ -18,9 +18,58 @@
 
 <h3 align="left">📬 Connect with Me:</h3>
 <p align="left">
-  <a href="https://github.com/CerealYT" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:cerealblam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- Discord -->
+  <a href="https://discord.gg/YOUR_SERVER_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+
+  <!-- Twitch -->
+  <a href="https://twitch.tv/YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/c/YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <!-- Steam -->
+  <a href="https://steamcommunity.com/id/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+
+  <!-- Patreon -->
+  <a href="https://www.patreon.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
+  </a>
+
+  <!-- Ko-Fi -->
+  <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi"/>
+  </a>
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </a>
+
+  <!-- Jupyter Notebooks -->
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
 </p>
+
 
 ---
 
