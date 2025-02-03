@@ -46,9 +46,9 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
   </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="40" height="40"/>
+</a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
@@ -126,12 +126,12 @@
 </p>
 <h4>🔸 AI & NLP:</h4>
 <p>
-  <a href="https://openai.com/whisper/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/OpenAI_Logo.svg" alt="Whisper" width="40" height="40"/>
-  </a>
-  <a href="https://rasa.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://openai.com/research/whisper" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="Whisper" width="40" height="40"/>
+</a>
+<a href="https://rasa.com/" target="_blank" rel="noreferrer"> 
     <img src="https://rasa.com/static/favicon.png" alt="Rasa" width="40" height="40"/>
-  </a>
+</a>
 </p>
 
 <h4>🔸 Automation & IoT:</h4>
@@ -139,9 +139,9 @@
   <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/home-assistant/home-assistant-icon.svg" alt="Home Assistant" width="40" height="40"/>
   </a>
-  <a href="https://mosquitto.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="MQTT" width="40" height="40"/>
-  </a>
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Mosquitto-logo.png" alt="MQTT" width="40" height="40"/>
+</a>
 </p>
 
 <h4>🔸 Network & Security:</h4>
@@ -150,18 +150,18 @@
     <img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" width="40" height="40"/>
   </a>
   <a href="https://www.zerotier.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/zerotier/zerotier-icon.svg" alt="Zerotier" width="40" height="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/ZeroTier_logo.png" alt="Zerotier" width="40" height="40"/>
+</a>
 </p>
 
 <h4>🔸 Development & Debugging:</h4>
 <p>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebooks" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebooks" width="40" height="40"/>
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+</a>
 </p>
 
 
