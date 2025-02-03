@@ -124,7 +124,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
   </a>
 </p>
-<h4>🔸 AI & Natural Language Processing:</h4>
+<h4>🔸 AI & NLP:</h4>
 <p>
   <a href="https://openai.com/whisper/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/OpenAI_Logo.svg" alt="Whisper" width="40" height="40"/>
