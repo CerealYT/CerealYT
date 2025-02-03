@@ -73,6 +73,16 @@
   </a>
 </p>
 
+<h4>AI & NLP:</h4>
+<p>
+  <a href="https://openai.com/whisper/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/OpenAI_Logo.svg" alt="whisper" width="40" height="40"/>
+  </a>
+  <a href="https://rasa.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://rasa.com/static/favicon.png" alt="rasa" width="40" height="40"/>
+  </a>
+</p>
+
 <h4>Databases:</h4>
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -83,23 +93,17 @@
   </a>
 </p>
 
-<h4>Tools & Technologies:</h4>
+<h4>Hardware & Embedded Systems:</h4>
 <p>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberry pi" width="40" height="40"/>
   </a>
 </p>
 
-<h4>IDEs:</h4>
+<h4>IDEs & Development Environment :</h4>
 <p>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -107,9 +111,15 @@
   <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/>
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+  </a>
 </p>
 
-<h4>Web Technologies:</h4>
+<h4>Web-Technologies:</h4>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
