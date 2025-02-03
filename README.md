@@ -1,17 +1,17 @@
 <h1 align="center">Hey there, I'm Cereal Blam! 🚀</h1>
 
-<p align="center">A passionate developer, physicist-in-training, and Smart Home innovator from Switzerland.</p>
+<p align="center">A passionate developer, astrophotographer, and Smart Home innovator from Switzerland.</p>
 
 ---
 
 <h3 align="left">👨‍💻 About Me:</h3>
 <ul>
   <li>💡 Building <strong>Nexcore</strong>, an AI-powered Smart Home Assistant.</li>
-  <li>🛠️ Hands-on with <strong>IoT, AI, and automation</strong> projects.</li>
-  <li>🔬 Passionate about <strong>physics</strong>, particularly <em>thermodynamics</em> and <em>experimental setups</em>.</li>
-  <li>🎮 Enjoys <strong>game development</strong> and experimenting with <em>AI-driven interactions</em>.</li>
-  <li>📷 Into <strong>Blender</strong> for 3D modeling and visualization.</li>
-  <li>📡 Currently learning advanced <strong>machine learning</strong> techniques.</li>
+  <li>🛠️ Focused on <strong>Smart Home Automation</strong> and IoT solutions.</li>
+  <li>🔬 Passionate about <strong>physics</strong>, particularly <em>thermodynamics</em> and <em>astrophysics</em>.</li>
+  <li>🌍 Interested in <strong>sustainable technology</strong> and energy-efficient systems.</li>
+  <li>🤖 Enthusiastic about <strong>robotics</strong> and <strong>electrical engineering</strong>, working on automation and control systems.</li>
+  <li>📡 Currently exploring <strong>machine learning</strong> for automation and AI-driven applications.</li>
 </ul>
 
 ---
