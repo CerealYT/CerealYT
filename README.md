@@ -126,21 +126,21 @@
 </p>
 <h4>🔸 AI & NLP:</h4>
 <p>
-  <a href="https://openai.com/research/whisper" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenAI_Logo.svg" alt="Whisper" width="40" height="40"/>
+<a href="https://openai.com/research/whisper" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="Whisper" width="40" height="40"/>
 </a>
 <a href="https://rasa.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Rasa_Logo.svg" alt="Rasa" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rasa.svg" alt="Rasa" width="40" height="40"/>
 </a>
 </p>
 
 <h4>🔸 Automation & IoT:</h4>
 <p>
-  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/MQTT_logo.svg" alt="MQTT" width="40" height="40"/>
+ <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mqtt.svg" alt="MQTT" width="40" height="40"/>
 </a>
 <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Home_Assistant_logo.svg" alt="Home Assistant" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homeassistant.svg" alt="Home Assistant" width="40" height="40"/>
 </a>
 </p>
 
@@ -148,9 +148,8 @@
 <p>
   <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" width="40" height="40"/>
-  </a>
-  <a href="https://www.zerotier.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/ZeroTier_One_logo.svg" alt="Zerotier" width="40" height="40"/>
+ <a href="https://www.zerotier.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zerotier.svg" alt="Zerotier" width="40" height="40"/>
 </a>
 </p>
 
