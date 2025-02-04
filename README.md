@@ -14,6 +14,8 @@
   <li>📡 Currently exploring <strong>machine learning</strong> for automation and AI-driven applications.</li>
 </ul>
 
+![Status](https://img.shields.io/badge/Status-Building_Nexcore-brightgreen?style=for-the-badge)
+
 ---
 
 <h3 align="left">📬 Connect with Me:</h3>
