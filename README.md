@@ -20,53 +20,48 @@
 <p align="left">
   <a href="mailto:cerealblam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- Discord -->
-  <a href="https://discord.gg/YOUR_SERVER_LINK" target="_blank">
+  <a href="https://discord.gg/53b6rygmKd" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/cereal__yt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
   <!-- Reddit -->
-  <a href="https://www.reddit.com/user/YOUR_USERNAME" target="_blank">
+  <a href="https://www.reddit.com/user/Intelligent-Yak-8177" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
   </a>
 
   <!-- Twitch -->
-  <a href="https://twitch.tv/YOUR_CHANNEL" target="_blank">
+  <a href="https://twitch.tv/Cereal__yt" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 
   <!-- YouTube -->
-  <a href="https://youtube.com/c/YOUR_CHANNEL" target="_blank">
+  <a href="https://youtube.com/c/cerealyt3405" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 
   <!-- Steam -->
-  <a href="https://steamcommunity.com/id/YOUR_USERNAME" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199380441887" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 
   <!-- Patreon -->
-  <a href="https://www.patreon.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.patreon.com/CerealYT" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
   </a>
 
   <!-- Ko-Fi -->
-  <a href="https://ko-fi.com/YOUR_USERNAME" target="_blank">
+  <a href="https://ko-fi.com/cerealblam" target="_blank">
     <img src="https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-Fi"/>
   </a>
 
   <!-- Postman -->
-  <a href="https://www.postman.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.postman.com/cerealyt" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
-
-  <!-- Jupyter Notebooks -->
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   </a>
 </p>
 
@@ -140,6 +135,9 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1024px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
@@ -148,6 +146,9 @@
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
@@ -164,6 +165,9 @@
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
 
@@ -222,6 +226,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CerealYT&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CerealYT&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerealYT&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerealYT&repo=REPOSITORY_NAME&theme=dark" alt="Top Repository"/>
 </p>
 
 ---
