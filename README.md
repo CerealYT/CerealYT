@@ -14,7 +14,10 @@
   <li>📡 Currently exploring <strong>machine learning</strong> for automation and AI-driven applications.</li>
 </ul>
 
-![Status](https://img.shields.io/badge/Status-Building_Nexcore-brightgreen?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Building_Nexcore-brightgreen?style=for-the-badge)![AI Model Training](https://img.shields.io/badge/AI_Model-Training-blue?style=for-the-badge&logo=openai)![Building the Future of Smart Homes](https://img.shields.io/badge/Building-Smart_Home_AI-green?style=for-the-badge&logo=iot)
+![AI-Powered Automation](https://img.shields.io/badge/AI_Powered-Automation-blue?style=for-the-badge&logo=robotframework)![Robotics & Embedded Systems](https://img.shields.io/badge/Robotics-Embedded_Systems-lightgrey?style=for-the-badge&logo=raspberrypi)![Teaching Machines to Think](https://img.shields.io/badge/Teaching_Machines-To_Think-darkblue?style=for-the-badge&logo=pytorch)![Running on Raspberry Pi](https://img.shields.io/badge/Running_on-Raspberry_Pi-darkred?style=for-the-badge&logo=raspberrypi)![Automating my Life](https://img.shields.io/badge/Automating-My_Life-blue?style=for-the-badge&logo=home-assistant)![Turning Caffeine into Code](https://img.shields.io/badge/Turning_Caffeine-Into_Code-brown?style=for-the-badge&logo=coffeescript)![Mapping the Stars](https://img.shields.io/badge/Mapping-the_Stars-ffcc00?style=for-the-badge&logo=spacex)![Exploring the Cosmos](https://img.shields.io/badge/Exploring-the_Cosmos-blueviolet?style=for-the-badge&logo=nasa)
+
+
 
 ---
 
