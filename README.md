@@ -121,6 +121,21 @@
   <a href="https://www.electronjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
   </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://jax.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Jax_logo.png" alt="JAX" width="40" height="40"/>
+  </a>
+<a href="https://onnx.ai/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/onnx.svg" alt="ONNX" width="40" height="40"/>
+</a>
 </p>
 
 <h4>🔹 Databases:</h4>
@@ -152,6 +167,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
@@ -191,6 +209,24 @@
 <a href="https://rasa.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rasa.svg" alt="Rasa" width="40" height="40"/>
 </a>
+  <a href="https://spacy.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" alt="SpaCy" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/BlinkDL/RWKV-LM" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/87856168?s=200&v=4" alt="RWKV" width="40" height="40"/>
+</a>
+<a href="https://github.com/ggerganov/llama.cpp" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/123935472?s=200&v=4" alt="Llama.cpp" width="40" height="40"/>
+</a>
+ <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_Logo.png" alt="NLTK" width="40" height="40"/>
+  </a>
+  <a href="https://fasttext.cc/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/FastTextLogo.png" alt="FastText" width="40" height="40"/>
+  </a>
+  <a href="https://deepspeech.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/DeepSpeech_Logo.png" alt="DeepSpeech" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>🔸 Automation & IoT:</h4>
@@ -201,15 +237,28 @@
 <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homeassistant.svg" alt="Home Assistant" width="40" height="40"/>
 </a>
+ <a href="https://www.edgeimpulse.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/edgeimpulse.svg" alt="Edge Impulse" width="40" height="40"/>
+</a>
 </p>
 
 <h4>🔸 Network & Security:</h4>
 <p>
   <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg" alt="WireGuard" width="40" height="40"/>
+  </a>
  <a href="https://www.zerotier.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/zerotier.svg" alt="Zerotier" width="40" height="40"/>
 </a>
+ <a href="https://onnxruntime.ai/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/onnx.svg" alt="ONNX Runtime" width="40" height="40"/>
+</a>
+<a href="https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/OpenVINO_Logo.png" alt="OpenVINO" width="40" height="40"/>
+  </a>
+ <a href="https://developer.nvidia.com/tensorrt" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="NVIDIA TensorRT" width="40" height="40"/>
+ </a>
 </p>
 
 <h4>🔸 Development & Debugging:</h4>
@@ -219,6 +268,15 @@
 </a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+</a>
+ <a href="https://huggingface.co/docs/datasets/index" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Datasets" width="40" height="40"/>
+</a>
+<a href="https://dvc.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dvc.svg" alt="DVC" width="40" height="40"/>
+</a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mlflow.svg" alt="MLflow" width="40" height="40"/>
 </a>
 </p>
 
