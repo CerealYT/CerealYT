@@ -102,12 +102,24 @@
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
+   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Fortran_logo.svg" alt="Fortran" width="40" height="40"/>
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>🔹 Frameworks & Libraries:</h4>
 <p>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://angularjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -131,11 +143,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
   <a href="https://jax.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Jax_logo.png" alt="JAX" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1200px-Google_JAX_logo.svg.png" alt="JAX" width="40" height="40"/>
   </a>
 <a href="https://onnx.ai/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/onnx.svg" alt="ONNX" width="40" height="40"/>
 </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+  <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="40" height="40"/>
+  </a>
+<a href="https://stylus-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stylus/stylus-original.svg" alt="Stylus" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>🔹 Databases:</h4>
@@ -171,6 +192,27 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="40" height="40"/>
   </a>
+   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+  </a>
+  <a href="https://codepen.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="CodePen" width="40" height="40"/>
+  </a>
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
+  </a>
+  <a href="https://stackoverflow.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
+  </a>
+  <a href="https://json.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="JSON" width="40" height="40"/>
+  </a>
+  <a href="https://www.openstack.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openstack/openstack-original.svg" alt="OpenStack" width="40" height="40"/>
+  </a>
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>🔹 IDEs & Development Environments:</h4>
@@ -190,6 +232,18 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40"/>
   </a>
+   <a href="https://atom.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="Atom" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.debian.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+  </a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  </a>
 </p>
 
 <h4>🔹 Web Technologies:</h4>
@@ -199,6 +253,27 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  </a>
+</p>
+<h4>🔹 Operating Systems:</h4>
+<p>
+  <a href="https://www.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://www.apple.com/ios/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="iOS" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
   </a>
 </p>
 <h4>🔸 AI & NLP:</h4>
@@ -219,13 +294,13 @@
     <img src="https://avatars.githubusercontent.com/u/123935472?s=200&v=4" alt="Llama.cpp" width="40" height="40"/>
 </a>
  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_Logo.png" alt="NLTK" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="NLTK" width="40" height="40"/>
   </a>
   <a href="https://fasttext.cc/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/FastTextLogo.png" alt="FastText" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*7JXLAF5L0_68kUQtFdaUQA.png" alt="FastText" width="40" height="40"/>
   </a>
   <a href="https://deepspeech.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/DeepSpeech_Logo.png" alt="DeepSpeech" width="40" height="40"/>
+    <img src="https://www.nuget.org/profiles/DeepSpeech/avatar?imageSize=512" alt="DeepSpeech" width="40" height="40"/>
   </a>
 </p>
 
@@ -254,7 +329,7 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/onnx.svg" alt="ONNX Runtime" width="40" height="40"/>
 </a>
 <a href="https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/OpenVINO_Logo.png" alt="OpenVINO" width="40" height="40"/>
+    <img src="https://images.ctfassets.net/5z56gn2a2s8n/7bfIDaOzyzURnA5pQmsBm5/b4f2559eef8d0201fb3254e9a643a9d5/logo-openvino-1x1-1.png?fm=webp" alt="OpenVINO" width="40" height="40"/>
   </a>
  <a href="https://developer.nvidia.com/tensorrt" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Nvidia_logo.svg" alt="NVIDIA TensorRT" width="40" height="40"/>
