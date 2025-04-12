@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://iili.io/3ctn0Sn.png" alt="Banner" style="max-width:100%;">
 </p>
-
+<h2 align="center"> Welcome to my Github Readme, nice to meet you! </h2>
 ---
 
 <h3 align="left">👨‍💻 About Me:</h3>
@@ -382,8 +382,8 @@
 </ul>
 
 ---
-
-<p align="center">⚡ Let's build the future together! 🚀</p>
 <p align="center">
   <img src="https://iili.io/3ctuI9t.jpg" alt="Banner" style="max-width:100%;">
 </p>
+<p align="center">⚡ Let's build the future together! 🚀</p>
+___
