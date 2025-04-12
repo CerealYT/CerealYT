@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iili.io/3cZRzDg.png" alt="Banner" style="max-width:100%;">
+  <img src="IMG_2085.webp" alt="Banner" style="max-width:100%;">
 </p>
 
 ---
