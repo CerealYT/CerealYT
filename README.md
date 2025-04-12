@@ -2,7 +2,7 @@
   <img src="https://iili.io/3cZRzDg.png" alt="Banner" style="max-width:100%;">
 </p>
 <p align="center">
-  <img src="https://iili.io/3ct6EGt.png" alt="Banner" style="max-width:100%;">
+  <img src="https://iili.io/3cD2hjS.png" alt="Banner" style="max-width:100%;">
 </p>
 
 <h3 align="left">👨‍💻 About Me:</h3>
