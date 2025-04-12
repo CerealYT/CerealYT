@@ -1,5 +1,6 @@
-<h1 align="center">Hey there, I'm Cereal Blam! 🚀</h1>
-
+<p align="center">
+  <img src="https://iili.io/3cZRzDg.png" alt="Banner" style="max-width:100%;">
+</p>
 <p align="center">A passionate developer, astrophotographer, and Smart Home innovator from Switzerland.</p>
 
 ---
