@@ -5,7 +5,6 @@
   <img src="https://iili.io/3ctn0Sn.png" alt="Banner" style="max-width:100%;">
 </p>
 <h2 align="center"> Welcome to my Github Readme, nice to meet you! </h2>
----
 
 <h3 align="left">👨‍💻 About Me:</h3>
 <ul>
