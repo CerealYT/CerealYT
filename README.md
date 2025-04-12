@@ -386,6 +386,5 @@
 
 ---
 <p align="center">
-  <img src="https://iili.io/3ctuI9t.jpg" alt="Banner" style="max-width:100%;">
+  <img src="https://iili.io/3l95Jx2.png" alt="Banner" style="max-width:100%;">
 </p>
-<p align="center">⚡ Let's build the future together! 🚀</p>
