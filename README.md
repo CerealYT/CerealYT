@@ -8,6 +8,8 @@
   <img src="https://iili.io/3cD2hjS.png" alt="Banner" style="max-width:100%;">
 </p>
 
+---
+
 <h3 align="left">👨‍💻 About Me:</h3>
 <ul>
   <li>💡 Building <strong>Nexcore</strong>, an AI-powered Smart Home Assistant.</li>
