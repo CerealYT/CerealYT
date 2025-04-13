@@ -222,7 +222,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CerealYT&theme=dark" alt="GitHub Streak"/>
 </p>
 <p align="center">
-  <img src="https://i.ibb.co/b50g5pZ1/3000-2.png" alt="Banner" style="max-width:100%;">
+  <img src="https://i.ibb.co/x8MfzKm6/3000-3.png" alt="Banner" style="max-width:100%;">
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerealYT&repo=REPOSITORY_NAME&theme=dark" alt="Top Repository"/>
