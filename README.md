@@ -221,7 +221,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CerealYT&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CerealYT&theme=dark" alt="GitHub Streak"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co/x8MfzKm6/3000-3.png" width="450" height="225";">
 </p>
 <p align="left">
