@@ -227,6 +227,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerealYT&repo=cerealyt&theme=dark" alt="Top Repository"/>
 </p>
+
 ---
 
 <h3 align="left">🚀 Projects:</h3>
