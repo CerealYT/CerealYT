@@ -225,7 +225,7 @@
   <img src="https://i.ibb.co/x8MfzKm6/3000-3.png" width="450" height="225";">
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerealYT&repo=REPOSITORY_NAME&theme=dark" alt="Top Repository"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerealYT&repo=cerealyt&theme=dark" alt="Top Repository"/>
 </p>
 ---
 
