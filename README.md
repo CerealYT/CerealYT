@@ -220,10 +220,13 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CerealYT&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CerealYT&theme=dark" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CerealYT&layout=compact&langs_count=8&theme=dark" alt="Most Used Languages"/>
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/b50g5pZ1/3000-2.png" alt="Banner" style="max-width:100%;">
+</p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CerealYT&repo=REPOSITORY_NAME&theme=dark" alt="Top Repository"/>
 </p>
-
 ---
 
 <h3 align="left">🚀 Projects:</h3>
