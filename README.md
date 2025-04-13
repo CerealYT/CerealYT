@@ -10,14 +10,32 @@
 
 ---
 
-<h3 align="left">👨‍💻 About Me:</h3>
+<h3 align="left">🧑‍💻 About Me:</h3>
 <ul>
-  <li>💡 Building <strong>Nexcore</strong>, an AI-powered Smart Home Assistant.</li>
-  <li>🛠️ Focused on <strong>Smart Home Automation</strong> and IoT solutions.</li>
-  <li>🔬 Passionate about <strong>physics</strong>, particularly <em>thermodynamics</em> and <em>astrophysics</em>.</li>
-  <li>🌍 Interested in <strong>sustainable technology</strong> and energy-efficient systems.</li>
-  <li>🤖 Enthusiastic about <strong>robotics</strong> and <strong>electrical engineering</strong>, working on automation and control systems.</li>
-  <li>📡 Currently exploring <strong>machine learning</strong> for automation and AI-driven applications.</li>
+   <li>
+    <img src="https://img.icons8.com/neon/40/000000/idea.png" alt="Idea" width="20" height="20"/>
+    Building <strong>Nexcore</strong>, an AI-powered Smart Home Assistant.
+  </li>
+  <li>
+  <img src="https://img.icons8.com/fluency/48/smart-home-automation.png" width="20"/>
+  Focused on <strong>Smart Home Automation</strong> and IoT solutions.
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/20/physics.png" alt="Physics"/>
+    Passionate about <strong>physics</strong>, particularly <em>thermodynamics</em> and <em>astrophysics</em>.
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/20/earth-planet.png" alt="Sustainability"/>
+    Interested in <strong>sustainable technology</strong> and energy-efficient systems.
+  </li>
+  <li>
+    <img src="https://img.icons8.com/neon/40/000000/robot.png" alt="Robotics" width="20" height="20"/>
+    Enthusiastic about <strong>robotics</strong> and <strong>electrical engineering</strong>, working on automation and control systems.
+  </li>
+  <li>
+    <img src="https://img.icons8.com/color/20/artificial-intelligence.png" alt="AI"/>
+    Currently exploring <strong>machine learning</strong> for automation and AI-driven applications.
+  </li>
 </ul>
 
 ---
@@ -210,12 +228,34 @@
 
 <h3 align="left">🚀 Projects:</h3>
 <ul>
-  <li>🛠️ <strong>Nexcore</strong>: AI-powered Smart Home Assistant</li>
-  <li>🎛️ <strong>Smart Mirror</strong>: Intelligent home interface</li>
-  <li>🧸 <strong>Robotics</strong>: Learning Robotic systems</li>
-  <li>🤖 <strong>Space Commander</strong>: Discord Space Server Bot</li>
-  <li>🪐 <strong>Space Website</strong>: Discord Space Bot</li>
-  <li>⚙️ <strong>Personal Website</strong>: About me website</li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/maintenance.png" width="20"/>
+    <strong>Nexcore</strong>: AI-powered Smart Home Assistant
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/mirror.png" width="20"/>
+    <strong>Smart Mirror</strong>: Intelligent home interface
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/robot-2.png" width="20"/>
+    <strong>Robotics</strong>: Learning Robotic systems
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/bot.png" width="20"/>
+    <strong>Space Commander</strong>: Discord Space Server Bot
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/rocket.png" width="20"/>
+    <strong>Space Website</strong>: Discord Space Bot
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/web.png" width="20"/>
+    <strong>Personal Website</strong>: About me website
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/cat.png" width="20"/>
+    <strong>Space Cat</strong>: A cosmic bot exploring the galaxies of servers
+  </li>
 </ul>
 
 ---
