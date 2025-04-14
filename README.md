@@ -250,7 +250,7 @@
   </li>
   <li>
     <img src="https://img.icons8.com/fluency/48/rocket.png" width="20"/>
-    <strong>Space Website</strong>: Discord Space Bot
+    <strong>Space Website</strong>: Discord Space Website
   </li>
   <li>
     <img src="https://img.icons8.com/fluency/48/web.png" width="20"/>
